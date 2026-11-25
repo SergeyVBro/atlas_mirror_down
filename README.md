@@ -2,7 +2,7 @@
 
 Автоматический наклон наружных зеркал при заднем ходе на Geely Atlas 2 (2024). После выхода из R зеркала возвращаются в исходное положение.
 
-**[Скачать APK 1.0.9](https://github.com/SergeyVBro/atlas_mirror_down/releases/download/v1.0.9/AtlasMirrorDown-1.0.9.apk)** · [Релиз v1.0.9](https://github.com/SergeyVBro/atlas_mirror_down/releases/tag/v1.0.9) · [Все релизы](https://github.com/SergeyVBro/atlas_mirror_down/releases)
+**[Скачать APK 1.0.11](https://github.com/SergeyVBro/atlas_mirror_down/releases/download/v1.0.11/AtlasMirrorDown-1.0.11.apk)** · [Релиз v1.0.11](https://github.com/SergeyVBro/atlas_mirror_down/releases/tag/v1.0.11) · [Все релизы](https://github.com/SergeyVBro/atlas_mirror_down/releases)
 
 ## Как пользоваться
 
